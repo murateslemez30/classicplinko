@@ -1,0 +1,31 @@
+{
+  "project_info": {
+    "project_number": "239179061195",
+    "project_id": "plinko-classic",
+    "storage_bucket": "plinko-classic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239179061195:ios:14aed209f1c192114d884e",
+        "android_client_info": {
+          "package_name": "com.red.ball.distribution.show.game"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl3uSS-uqezurVeOK3tcOTGu4Owa-kOOg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
